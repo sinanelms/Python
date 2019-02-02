@@ -12,7 +12,7 @@ time.sleep(2)
 username = browser.find_element_by_name("username")
 password = browser.find_element_by_name("password")
 username.send_keys("l4melif")
-password.send_keys("1920215")
+password.send_keys("123456789")
 
 loginButton = browser.find_element_by_xpath("//*[@id='react-root']/section/main/div/article/div/div[1]/div/form/span/button")
 loginButton.click()
