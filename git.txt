@@ -1,0 +1,8 @@
+1)öncelikle sitede "repostory" yapacaz
+2)echo "# SEBlog-V3" >> README.md
+3)git init
+4)git add .
+5)git commit
+6)git commit -m "projenin 3. yüzü"
+7)git remote add origin https://github.com/sinanelms/SEBlog-V3.git
+8)git push -u origin master

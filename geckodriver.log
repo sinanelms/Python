@@ -1,0 +1,13 @@
+1575205021361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ab215395\\AppData\\Local\\Temp\\rust_mozprofileaYiebn"
+Unable to read VR Path Registry from C:\Users\ab215395\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ab215395\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ab215395\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ab215395\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ab215395\AppData\Local\openvr\openvrpaths.vrpath
+1575205024070	Marionette	INFO	Listening on port 61798
+1575205024154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 1192: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.fff9477f997fa1246faf.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.fff9477f997fa1246faf.js, line 2: unreachable code after return statement
+[Parent 4284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1576566045562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ab215395\\AppData\\Local\\Temp\\rust_mozprofile8cVq0q"
